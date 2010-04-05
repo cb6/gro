@@ -1,0 +1,268 @@
+* git
+Global setup:
+Download and install Git
+  git config --global user.name "Your Name"
+  git config --global user.email cuben6@yahoo.fr
+
+Next steps:
+  mkdir gro
+  cd gro
+  git init
+  touch README
+  git add README
+  git commit -m 'first commit'
+  git remote add origin git@github.com:cb6/gro.git
+  git push origin master
+
+Existing Git Repo?
+  cd existing_git_repo
+  git remote add origin git@github.com:cb6/gro.git
+  git push origin master
+
+Importing a Subversion Repo?
+  Click here
+
+http://github.com/cb6/gro/imports/new
+When you're done:
+  Continue
+
+http://github.com/cb6/gro
+* zik 									:zik:
+** c-walk
+Scribe - Dreaming.mp3
+Young Chris, Twista, Freeway... - Act of War.mp3
+Big Von - To The Sky.mp3
+Outlawz - Real Talk.mp3
+Jedi Mind Tricks - The Eve of War.mp3
+Ray J Feat. Fabolous - One Wish (Desert Storm Remix).mp3
+Teriyaki Boyz - Tokyo Drift.mp3
+Bone Thugs N Harmony - I Tried.mp3
+Bone Thugs-N-Harmony - Never Forget Me (Remix).mp3
+Lumidee - She's Like The Wind.mp3
+Mr. Criminal - From The 216 To The 213.mp3
+Lill' Kim - Kimnotyze.mp3
+Lorenzo - La France Va Mal.mp3
+Chukie Akenz - To the Top.mp3
+Lupe Fiasco - The Instrumental.mp3
+Xzibit - Get Your Walk On.mp3
+Dj Screz - Tokyo Drift (REMIX).mp3
+Killaz Group - Manewry.mp3 (like princess mononoke)
+Cunninlynguists - Lynguistics.mp3
+*J-Kwon Ft. MJ - They Dont Really Care About Us (Element Remix).mp3*
+-> pointes dessin en battant le beat
+OSTR - Kochana Polsko.mp3
+Unknown - New Age.mp3
+Chuckie Akenz - You Were My Everything.mp3
+Ozone Beats - Set It Off.mp3
+In The End - Remix.mp3
+Jedi Mind Tricks - Battle Cry.mp3
+Check Yo Self (the message remix).mp3
+Dr Dre Ft. Ice Cube - Ring Ding Dong.mp3
+Henry Chan - So Asian Beat.mp3
+J-Reyez - Intentions of Rap [Ft. Vettori].mp3
+Memphis Bleek - R.O.C Cafe.mp3
+Trey Songz - I Can't Stop Missing You  .mp3
+Unknown - Bigger Than Life.mp3
+Young Goldmouf - In Da Club.mp3
+August - Mama Told Me.mp3
+Busta Rhymes - Been Through The Storm.mp3
+Sean Kingston - Shawty Got Back.mp3
+Jay-Z - My First Song.m4a
+The gift - Korean 2.mp3
+Baby Brown - CC Soldier.mp3
+Cormega - The Saga Remix.mp3
+August - Mama Told Me.mp3
+Memphis Bleek - Rocafella (Get Low, Respect It).mp3
+Ne-Yo Ft. AC - Because of You.mp3
+Outerspace Ft. Celph Titled - The Revolution.mp3
+Tha Zone - Fresh Ta Def.mp3
+Akon ft. Kardinal Offishall - Dangerous.mp3
+Jedi Mind Tricks - On The Eve Of War (Julio Caesar Chavez Mix).mp3
+Doing My Job (feat. Ms. Jade).mp3
+Gang_starr_-_check_the_technique.mp3
+Mario Barrett - Go - How Do I Breathe.mp3
+Gangstarr_-_who_got_gunz_ft._m.o.p..mp3
+Slin Craze - Listen To Your Heart.mp3
+Traxamillion - San Francisco Anthem.mp3
+
+** Lyrics
+*** Wyclef Jean / Akon - Sweetest Girl
+*[Intro: (Wyclef Jean (Lil Wayne)]*
+Some live for the bill 
+Some kill for the bill 
+She wined for the bill 
+Grind for the bill 
+(And she used to be the sweetest girl) 
+Some steal for the bill, if they got to pay the bill 
+(And she used to be the sweetest girl) 
+Tonight Wyclef, Akon, Weezy and Nia 
+
+*[Verse 1: (Wyclef Jean)]*
+High school she was that girl that make me do the hula hoop around the gym 
+(Just to get a peek again, she’s a 10) 
+High school she was that girl that make me do the hula hoop around the gym 
+(Just to get a peek again, she’s a 10) 
+Never thought she would come and work for the president 
+Mr. George Washington (where my money at?) 
+She thought he’d call (where my money at?) 
+She had a good day, bad day, sunny day, rainy day 
+All you wanna know is (where my money at?) 
+Closed legs don’t get fed, go out there and make my bread 
+All you wanna know is (where my money at?) 
+She ended up in a road car, bruised up, scarred hard 
+All you wanna know is (where my money at?) 
+She thought he’d call (where my money at?) 
+
+*[Chorus: (Akon) ] (x2)*
+Cos’ I’ma tell you like Wu told me 
+Cash rules everything around me 
+Singin’ dollar dollar bill y’all (dollar, dollar bill y’all) 
+Singin’ dollar dollar bill y’all(dollar, dollar bill y’all) 
+
+*[Verse 2: (Akon)]*
+Pimpin’ got harder cos’, hoes got smarter 
+On the strip is something they don’t wanna be a part of 
+Rather be up in the club shakin’ for a thug 
+For triple times the money and spending it like they wanna 
+They got they mind on they money, money on they mind 
+They got they finger on the trigger, hand on the nines 
+See everyday they feel the struggle, but staying on they grind 
+And ain’t nobody takin’ from us, and that’s the bottom line 
+But I know, there’s a drop in the block 
+You move slow, you getting’ pressure from cops 
+You don’t know, not to lay low 
+Because 25 to life’s no joke 
+To all my real gorillas thuggin’ 
+On top of corners every day strugglin’ 
+All the beautiful women gettin’ money 
+Washin' them dollar bills like laundry 
+
+*[Chorus: (Akon) ] (x2)*
+Cos’ I’ma tell you like Wu told me 
+Cash rules everything around me 
+Singin’ dollar dollar bill y’all (dollar, dollar bill y’all) 
+Singin’ dollar dollar bill y’all(dollar, dollar bill y’all) 
+
+*[Bridge: (Wyclef Jean)]*
+Money, money-money-money 
+Money, money-money-money 
+It drives the world crazy 
+
+*[Verse 3: (Lil Wayne)]*
+(Weezy) She used to be (she used to be the sweetest girl) 
+
+She used to be the sweetest girl ever
+Now she like sour ameretta
+She wears a dress to the T like the letter
+And if you make it rain she will be under the weather
+She used to run track back in high school
+Now she tricks off the track right by school
+She takes a loss cos she don't wanna see her child lose
+So respect her, I'll pay up for the time used
+And then she runs to the pastor
+And he tells her there will be a new chapter
+But she feels no different after
+And then she asks him… (in the background Weezy- Where my money at?)
+
+
+
+*[Chorus: (Akon) ] (x2)*
+Cos’ I’ma tell you like Wu told me 
+Cash rules everything around me 
+Singin’ dollar dollar bill y’all (dollar, dollar bill y’all) 
+Singin’ dollar dollar bill y’all(dollar, dollar bill y’all) 
+
+
+*[Outro: (Wyclef Jean)]*
+Some live for the bill 
+Some kill for the bill (where my money at?) 
+She wined for the bill 
+Grind for the bill (where my money at?) 
+Some steal for the bill, if they got to pay the bill (where my money at?) 
+Tonight Wyclef, Akon, Weezy and Nia
+
+** playlist
+C:\Users\fred\Downloads\cw-packs\C-walk music 2\AZ - The Format.mp3
+C:\Users\fred\Downloads\cw-packs\C-walk music 2\Dr. Dre - The Next Episode.mp3
+C:\Users\fred\Downloads\cw-packs\C-walk music 3\Outlawz - Real Talk.mp3
+C:\Users\fred\Downloads\cw-packs\C-walk music 4\DJ Hot Snow - Lemme Put You On The Game.mp3
+C:\Users\fred\Downloads\cw-packs\C-walk music 4\Jedi Mind Tricks - The Eve of War.mp3
+C:\Users\fred\Downloads\cw-packs\C-walk music 5\Bone Thugs N Harmony - I Tried.mp3
+C:\Users\fred\Downloads\cw-packs\C-walk music 5\Xzibit - Front 2 Back.mp3
+C:\Users\fred\Downloads\cw-packs\C-walk music 6\9th Wonder - Strongest Man [Instrumental].mp3
+C:\Users\fred\Downloads\cw-packs\C-walk music 6\Costello - Co-Coss style.mp3
+C:\Users\fred\Downloads\cw-packs\C-walk music 6\Cristian Alexanda - Too Fine.mp3
+!! C:\Users\fred\Downloads\cw-packs\C-walk music 6\Lill' Kim - Kimnotyze.mp3
+C:\Users\fred\Downloads\cw-packs\C-walk music 8\Lupe Fiasco - The Instrumental.mp3
+!!! C:\Users\fred\Downloads\cw-packs\C-walk music 10\2pac - Hit Em' Up.mp3
+C:\Users\fred\Downloads\cw-packs\C-walk music 3\Outlawz - Real Talk.mp3
+
+* motos
+http://www.partsworldshop.com/de/gallery/sport.php
+http://photo.autonews.fr/divers/honda-cb600f-hornet-2009/honda-cb600f-hornet-2009/441582-1-fre-FR/hONDA-CB600F-Hornet-2009_header1600x800.jpg
+
+* cwalk
+** learn
+http://www.youtube.com/user/RoverAlll#g/u
+
+* todos 							      :todos:
+** TODOS life
+*** TODO [#A] RSS
+- google
+- guardian
+- caledosphere
+- etc
+*** TODO [#A] Mirroir
+*** TODO [#A] Ipod midi
+** TODOS mind
+*** TODO [#A] lecture methodique
+** TODOS body
+*** DONE [#A] Optimiser le matin pour placer ABS
+    CLOSED: [2010-02-16 mar. 18:09]
+heeltoes does the trick
+** TODOS books
+Andre Gide (life tips)
+** TODOS Son
+- http://son2teuf.org
+- shpongle
+- digital samsara
+- abakus
+- jaia
+- infected
+- radium
+- cardiak
+- 
+*** TODO oth
+http://forum.scanlover.com/showthread.php?t=30&highlight=kadena&page=32
+http://topasianmodels.net/page/24
+
+
+
+
+
+La Princesse et la grenouille
+La haut
+
+
+Ehrenberg’s new book, “La Société du Malaise” (“The Malaise Society”)
+is full of insights into the impact of narcissistic neurosis.
+** TODO poom
+** TODO kor
+** TODO cw
+** TODO gm
+** TODO impots
+** TODO remboursement mutuelle
+** TODO medecine
+** TODO taff
+
+
+
+
+
+
+
+
+
+
+
+
